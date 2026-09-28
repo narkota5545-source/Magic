@@ -122,9 +122,9 @@ local Hooks = G.Hooks
 -- UI
 -- ============================================================
 local Window = Rayfield:CreateWindow({
-    Name = "Penablox HvH | Mod System",
-    LoadingTitle = "Penablox HvH Script",
-    LoadingSubtitle = "by Community",
+    Name = "Magic | Penablox",
+    LoadingTitle = "Penablox Lua",
+    LoadingSubtitle = "by ExE",
     ConfigurationSaving = { Enabled = false },
     KeySystem = false,
     ToggleKey = Enum.KeyCode.RightControl,
